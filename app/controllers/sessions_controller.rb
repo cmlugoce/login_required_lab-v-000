@@ -16,6 +16,6 @@ end
 end
 
 def new
-end 
+end
 
 end
