@@ -15,4 +15,7 @@ end
 
 end
 
+def new
+end 
+
 end
